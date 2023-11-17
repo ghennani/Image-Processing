@@ -1,4 +1,4 @@
-# traitement-d-image
+# image processing
 the language that i used is python
 the file of EXO2_TI contain a code of stretched image
 the file of EXO3 contain a code equalized image
